@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Function_Types](https://github.com/Boostorg/Function_Types) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Function_Types%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Function_Types%3Abincrafters).
 
 ## For Users: Use this package
 
