@@ -1,9 +1,9 @@
-from conans import ConanFile, tools, os
+from conans import ConanFile
+
 
 class BoostFunction_TypesConan(ConanFile):
     name = "Boost.Function_Types"
     version = "1.65.1"
-    short_paths = True
     url = "https://github.com/bincrafters/conan-boost-function_types"
     description = "Please visit http://www.boost.org/doc/libs/1_65_1/libs/libraries.htm"
     license = "www.boost.org/users/license.html"
