@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostFunction_TypesConan(ConanFile):
     name = "boost_function_types"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-function_types"
+    url = "https://github.com/bincrafters/conan-boost_function_types"
 
     lib_short_names = ["function_types"]
     is_in_cycle_group = True
