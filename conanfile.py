@@ -8,7 +8,8 @@ class BoostFunction_TypesConan(ConanFile):
     name = "boost_function_types"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_function_types"
-
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["function_types"]
     is_in_cycle_group = True
     is_header_only = True
